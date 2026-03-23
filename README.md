@@ -1,2 +1,1 @@
-# _
-Simple Script for Roblox (Luau)
+Чттобы запустить скрипт, вам нужен любой эксплоит с поддержкой CS (ClientSide), например Delta, KRNL (iOS), Xeno и д.р., и ещё вы это не читаете, лол
